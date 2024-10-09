@@ -22,3 +22,5 @@ La ferme du web propose l'actualité pour une grande variété de technologies (
 - **python insider** : https://x.com/pythoninsider
 - **python software foundation** : https://x.com/ThePSF
 
+Python possède deux comptes twitter officiels reconnus, **python insider** qui est le compte de l'équipe de développement principale de python qui vient tenir à jour des nouvelles versions du langage, et **python software foundation** qui est une organisation à but non lucratif qui soutient le développement du langage python et aide à organiser des évènements communautaires (conférences, hackathons etc...).
+
