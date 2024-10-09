@@ -8,7 +8,7 @@ Technologie : python
 - **blog** : https://www.python.org/blogs/
 - **flux RSS** : https://blog.python.org/feeds/posts/default?alt=rss
 
-Le site officiel de python propose plusieurs ressources, une **documentation** concernant les différentes versions de python et les nouveautés qui y sont ajoutés, un **blog** avec les nouveautés du langage de manière générale ainsi qu'un **flux RSS** pour suivre l'actualité.
+Le site officiel de python propose plusieurs ressources, une **documentation** concernant les différentes versions de python et les nouveautés qui y sont ajoutées, un **blog** avec les nouveautés du langage de manière générale ainsi qu'un **flux RSS** pour suivre l'actualité.
 
 ### la ferme du web
 - **flux rss** : https://www.lafermeduweb.net/search-rss.xml?search_veille%5Bsorting%5D=publishedAt-desc&search_veille%5BnbPerPages%5D=50&search_veille%5BdateInterval%5D=&search_veille%5Bauthor%5D=&search_veille%5Blang%5D=all&search_veille%5Bsearch%5D=python
