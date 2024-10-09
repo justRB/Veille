@@ -24,3 +24,7 @@ La ferme du web propose l'actualité pour une grande variété de technologies (
 
 Python possède deux comptes twitter officiels reconnus, **python insider** qui est le compte de l'équipe de développement principale de python qui vient tenir à jour des nouvelles versions du langage, et **python software foundation** qui est une organisation à but non lucratif qui soutient le développement du langage python et aide à organiser des évènements communautaires (conférences, hackathons etc...).
 
+## Évènements
+- **pycon** : https://www.pycon.fr/2024/
+
+**pycon** est une grande conférence annuelle dédiée au langage python organisé par la PSF (python software foundation) et qui se tient dans différents pays du monde.
