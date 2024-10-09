@@ -39,6 +39,11 @@ Python possède deux comptes twitter officiels reconnus, **python insider** qui 
 ### pycon
 - **url** : https://www.pycon.fr/2024/
 
-**pycon** est une grande conférence annuelle dédiée au langage python organisé par la PSF (python software foundation) et qui se tient dans différents pays du monde.
+Grande conférence annuelle dédiée au langage python organisé par la PSF (python software foundation) et qui se tient dans différents pays du monde.
+
+### europython
+- **url** : https://ep2024.europython.eu/
+
+Plus grande conférence python d'europe.
 
 
