@@ -21,6 +21,11 @@ La ferme du web propose l'actualité pour une grande variété de technologies (
 
 Agrégateur de blogs qui regroupe des articles écrits par les membres de la communauté et tient au courant des nouvelles versions, bibliothèques etc...
 
+### inoreader
+- **url** : https://www.inoreader.com/
+
+Agrégateur de flux RSS qui propose des options de filtrage et prend en charge les flux rss de réseaux sociaux (twitter, facebook), newsletters.
+
 ## Réseaux sociaux
 
 ### Twitter (X)
