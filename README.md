@@ -17,7 +17,8 @@ Le site officiel de python propose plusieurs ressources, une **documentation** c
 La ferme du web propose l'actualité pour une grande variété de technologies (langages, frameworks, bases de données etc...) que nous pouvons filtrer par langage avec à disposition un **flux rss** ainsi qu'un **flux json** pour être au courant des nouveautés.
 
 ### planet python
-- **url** : https://planetpython.org/
+- **url** : https://planetpython.org
+
 Agrégateur de blogs qui regroupe des articles écrits par les membres de la communauté et tient au courant des nouvelles versions, bibliothèques etc...
 
 ## Réseaux sociaux
