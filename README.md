@@ -14,7 +14,7 @@ Le site officiel de python propose plusieurs ressources, une **documentation** c
 - **flux rss** : https://www.lafermeduweb.net/search-rss.xml?search_veille%5Bsorting%5D=publishedAt-desc&search_veille%5BnbPerPages%5D=50&search_veille%5BdateInterval%5D=&search_veille%5Bauthor%5D=&search_veille%5Blang%5D=all&search_veille%5Bsearch%5D=python
 - **flux json** : https://www.lafermeduweb.net/search-json.json?search_veille%5Bsorting%5D=&search_veille%5BnbPerPages%5D=10&search_veille%5BdateInterval%5D=&search_veille%5Bauthor%5D=&search_veille%5Blang%5D=all&search_veille%5Bsearch%5D=python
 
-La ferme du web propose l'actualité pour une grande variété de technologies (langages, frameworks, bases de données etc...) que nous pouvons filtrer par langage avec à disposition un **flux rss** ainsi qu'un **flux json**.
+La ferme du web propose l'actualité pour une grande variété de technologies (langages, frameworks, bases de données etc...) que nous pouvons filtrer par langage avec à disposition un **flux rss** ainsi qu'un **flux json** pour être au courant des nouveautés.
 
 ## Réseaux sociaux
 
